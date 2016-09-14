@@ -1,0 +1,522 @@
+﻿#1848
+	Blanc Noisettes à la Crème de Nougat et Nougatine, 130
+#Alter Eco Bio & Equitable
+	Lait aux Éclats de Miel, 250
+	Lait Éclats d'Amandes Caramélisés, 210
+#Arko Confiserie
+	Papua 35%, 366
+#Auchan
+*Blanc
+	Noix de Coco Caramélisée, 121
+      Lait Framboise Crêpe Dentelle, 113
+      Noir aux Pépites Saveur Violette, 115
+#Beletti 1882
+	Le Classiche Cioccolato Bianco, 369
+#Bernard Castelain Artisan Chocolatier
+	Chocolat Lait, 156
+#Bellarom
+	Crocante Fresa / Morango, 320
+	Edel Herbe Sahne Schokolade, 262
+	Kaffee-Sahne Schokolade, 295
+#Cachet
+	Blackberry & Ginger, 239
+	Orange & Almonds, 128
+#Caffarel Eccellenza Piemontese
+	Bianco con Mandrole Pugliesi, 27
+
+#Cailler of Switzerland
+*Sublim
+	Lait Truffon, 138
+	Lait & Fondant Noisette, 286
+      Lait & Caramel Pointe de Sel, 1
+      Lait & Fèves de Cacao, 4
+      Lait & Noisettes Torréfiées, 65
+      Lait & Nougat Croquant, 86
+      Lait & Nougatine Citron, 298
+      Noir Éclats Cacao, 61
+      Noir Truffon, 297
+*Sublim Lait
+	Caramel Pointe de Sel, 344
+	Nogatine Citron, 354
+*Sublim Noir
+	Orange Confite, 345
+#Carrefour
+	Amandes, 224
+	Blanc Coco; 1.0, 207
+      Blanc Coco; 2.0, 222
+      Chocolat Blanc aux Noisettes Entières, 252
+      Chocolat au Lait Eclats de Caramel Pâte d'Amandes et Fleur de sel, 264
+      Chocolat Noir, 229
+      Extra Lait, 261
+      Lait Noisettes Entières, 241
+	Lait Praliné, 181
+	Mousse Praliné, 283
+	Noir Amandes, 237
+	Noir Orange, 306
+	Noir Poire, 209
+#Casino
+*Les Desserts du Chocolatier
+	Goût Crème Brûlée, 200
+      Goût Tarte Citron Meringuée, 195
+*Chocolat Supérieur
+	Noir Menthe, 198
+#Cémoi (Chocolatier Français)
+	Latte & Nocciole, 386
+#Choceur
+      65% Cacao Noir; 1.0, 95
+      65% Cacao Noir; 2.0, 263
+      75% Cacao Noir; 1.0, 97
+      75% Cacao Noir; 2.0, 179
+      85% Cacao Noir; 1.0, 99
+      85% Cacao Noir; 2.0, 201
+      Cassis, 317
+      Edel Vollmilch, 137
+      Framboise Noir, 216
+      Gianduja, 260
+      Herbe Sahne, 363
+      Orange Noir; 1.0, 98
+      Orange Noir; 2.0, 205
+      Rum-Kokos, 183
+#Continente Gourmet
+	Chocolate com Amêndoas Inteiras, 302
+	Chocolate com Framboesa, 311
+	Chocolate com Menta, 316
+#Coop Naturaplan
+	Bio Chocolat Noir à l'Orange 60% de Cacao, 293
+	Bio Chocolat Noir aux Pistaches Caramélisées et Salées, 292
+#Côte d'Or
+	Amandes Caramélisées Avec une Pointe de Sel, 194
+	Blanc Noisettes, 126
+	Lait Amandes Caramélisées avec une Pointe de Sel, 120
+	Lait Biscuits Sablés avec une Pointe de Sel, 221
+	Lait Noisettes, 47
+      Lait Noix de Pécan, 228
+	Lait Raisins Noisettes, 114
+	Noir Amandes; 1.0, 46
+	Noir Amandes; 2.0, 203
+	Noir Noisettes, 192
+	Noir Pistaches Caramélisées, 232
+	Praliné Fondant Lait, 134
+	Truffé Noir, 199
+*Dégustation
+	70% Noir Intense, 170
+*Sensations
+	Pistache Noir, 69
+#E. Wedel
+*Maestria
+	Hazelnuts and Wafer Flakes, 271
+	Hazelnuts and Walnuts, 267
+#Elysia
+	Noir, 122
+#Ethiquable Commerce équitable
+	Cacao Gran Cru Pérou Noir 68%, 361
+#Feodora
+	Caramel Crisps, 147
+	Milde Vollmilch, 148
+#Foullon
+	Latte, 208
+	Nero 60%, 358
+#Frey
+*Suprême
+	Amandes & Myrtilles, 387
+	Blond Amandes, 395
+	Caramel & Poire Lait, 75
+	Crema Catalana Blanc, 73
+	Noir Satin, 360
+      Panna Cotta Noir, 80
+      Tiramisù Lait, 109
+*Émotion
+	Heidelbeer Nuance Weisse Schokolade, 364
+      Kokosnuss Spezial Weisse Schokolade, 77
+      Pekan & Karamell Milchschokolade, 76
+*      
+      Creamy Milk, 154
+      Dark Orange, 164
+      Pecan & Caramel, 152
+
+#Galler Chocolatier
+	Lait Amandes Grillées, 288
+#Godiva Chocolatier
+	Dark Chocolate with Almonds, 253
+	Extra Creamy Milk Chocolate Hazelnut, 284
+#Gorenjka
+*Mistica
+	Brusnice & Jabolko, 21
+      Limeta, 136
+      Malina, 149
+	Original Dark, 58
+      Rezani lešniki & Hruška, 93
+*
+	Mlečna, 190
+	Mlečna Čokolada Limited Spring Edition, 305
+	Spekulas, 202
+	Zimska pravljica, 66
+#Hachez Chocolatier
+*Cocoa de Maracaibo
+	Mandel – Himbeere, 388
+*Cocoa a'Arriba
+	Cherrytomato-Salt, 151
+#Heidi Grand'Or
+*Summer Venture
+	Amazon, 281
+	Caribbean, 258
+	Sicilia, 315
+*
+	Florentine, 242
+	Milk & Hazelnuts, 238
+	Orange, 359
+	Walnuts & Honey, 389
+	White & Hazelnuts, 244
+#Jubilen
+	70% Extra Noir, 340
+	Amêndoas, 303
+	Amêndoas, Avelãs e Passas, 313
+	Leite, 355
+	Nougat Crocant, 301
+#K Plus
+	Čokolada Badem, 353
+#Katy Exquisite
+*Lait
+	 Amandes, 352
+	Caramel, 350
+#Kraš
+	Finest Lemon 60% Cacao, 188
+#Lauenstein Confiserie
+	Cranberry, 123
+#Lindt & Sprűngli
+*Black & White
+	Café-Trüffel, 370
+	Choco-Trüffel, 356
+	Vanille-Trüffel, 372
+*Choco-Crème
+	Choco, 29
+      Nougat, 79
+	Pecannuss, 43
+*Creation
+      Caramel, 110
+      Cherry & Chili, 351
+      Chocolat de Luxe, 390
+	Chocolate Mousse, 44
+	Coconut Milk, 318
+      Coulis de Menthe, 131
+      Crème de Marrons, 140
+      Crème Brûlée, 167
+      Délice Pistache, 225
+      Fig & Caramel, 103
+      Hazelnut de Luxe Milk, 89
+      Le Noir Orange, 374
+      Le Praliné, 127
+      Meringue, 139
+      Mousse au Chocolat White, 104
+      Noir Orange, 129
+      Nougat, 111
+      Orange, 7
+      Pistachio Delight, 371
+      Raspberry Dream, 332
+      Rhum-Raisins, 206
+      Spéculoos, 331
+      Tiramisu, 177
+      La Truffe, 118
+      Vanille-Amandes, 215
+      Waffer Praline, 365
+*Edelbitter Mousse
+	Blaubeer-Lavendel, 53
+      Cranberry, 72
+	Erdbeer-Pfeffer, 70
+	Erdbeere, 270
+      Granatapfel & Chili, 67
+      Hot Mango & Cayenne, 308
+      Minze, 324choce
+	Sauerkirsch-Chili, 34
+*Excellence
+	70% Cocoa Dark, 290
+	70% Cacao Noix Noir, 204
+      70% Cacao Nougatine Noir, 184
+      85% Cocoa Dark, 251
+	90% Cocoa Dark Supreme, 162
+	À la Pointe de Fleur de Sel Noir, 145
+      À la Pointe de Wasabi, 226
+	Amandes Croquantes Lait, 36
+	Blueberry Intense Dark, 49
+      Cassis Intense Dark, 105
+      Caramel à la Pointe de Sel Noir, 217
+	Caramel Croquant Lait, 35
+	Caramel Intense Noir, 41
+	Caramel Vollmilch, 57
+      Cherry Intense Dark, 325
+      Chili Feinherb, 18
+      Coconut Intense Dark, 328
+	Cocos Weiss, 17
+      Cranberry Intense Dark, 51
+      Dolce Amaro, 212
+      Douceur Vanillée Noir, 327
+      Extra Creamy Milk, 60
+      Extra Crémeux Lait, 265
+      Extra Velouté Blanc, 112
+$Fin Cœur
+      	Chocolat Noir, 135
+      	Framboise Noir, 119
+      	Praliné Noisettes Noir, 96
+      Fraise Intense Blanc, 230
+      Joghurt Erdbeer, 125
+	Joghurt Limette, 124
+	Miel Exquis Lait, 287
+      Mint Intense Dark, 5
+      Noisettes Crostillantes Lait, 59
+      Stracciatella Blanc, 91
+*Hazelnut de Luxe
+      Dark, 107
+	Milk, 30
+*Hello my name is
+	Apple Crumble, 341
+	Caramel Brownie, 256
+	Cookies & Cream, 257
+	Dark Chocolate Cookie, 338
+	Nougat Crunch, 259
+	Salted Caramel, 337
+	Strawberry Cheesecake, 272
+*Lindor
+	Lait, 117
+*Maxi Plaisir
+	Lait Praliné Amandes, 219
+	Lait Praliné Noisettes, 254
+	Noir Praliné Noisettes, 223
+*Milchshake
+      Banane, 82
+      Brombeer, 248
+      Choco, 94
+      Erdbeer, 161
+*Passion
+	Orange & Pistache, 150
+*Passion Chocolat
+      Amandes & Vanille Bourbon, 100
+      Caramel & Fleur de Sel, 133
+	Orange & Pistache, 62
+*Petits Desserts
+      Crème Brülée, 11
+      Mousse au Chocolat Dark, 50
+      Mousse au Chocolat Lait, 3
+      Mousse au Chocolat Noisette, 6
+      Mousse au Chocolat White, 13
+      Tiramisu, 54
+*Schichtnougat
+	Dunkel, 176
+	Hell, 165
+	Weiss, 158
+*Swiss Premium Chocolate
+	Milk, 333
+	White Almond, 310
+*Vollmilch Feinschmelzend
+	Haselnuss-Gianduja, 39
+      Sahne-Caramel, 10
+
+*Weisse Chocolade
+	Mit Haselnuss-Nougat, 249
+	Mit Hellem Orangen-Trüffel, 277
+	Mit Mandel-Nougat und Mandel-Splittern, 269
+*
+	Cocos, 375
+      Eiscafé, 163
+      Joghurt Erdbeer-Rhabarber, 20
+      Joghurt Heidelbeer -Vanille, 141
+      Joghurt Himbeer-Vanille, 143
+      Joghurt Pfirsich-Aprikose, 247
+      Mousse au Chocolat Lait, 280
+      Mousse au Chocolat Zimt, 178
+      Orange-Mandelkrokant, 2
+      Trüffel Eierlikör, 160
+      Trüffel Marc de Champagne, 172
+      Waldfrucht-Vanille, 142
+#Marks & Spencer (Swiss Chocolate)
+      Extra Fine Milk With Fruit & Nut, 394
+      Extra Fine Milk With Hazelnuts, 391
+#Marquise de Sévigné Paris
+	Fourré Crème Brûlée, 146
+#Me to You
+	Dark; 1.0, 357
+	Dark; 2.0, 379
+	Milk; 1.0, 31
+	Milk; 2.0, 37
+      Milk; 3.0, 101
+	White, 45
+#Mercator Premium
+	Brusnica, pomaranča in med, 180
+	Mlečna čokolada, 367
+	Pomaranča, 189
+	Poprova meta, 185
+	Žlahtna temna čokolada, 191
+#Migros
+*Sélection
+	Florentin, 397
+	Maple Walnuts, 396
+#Milka
+*Amavel
+	Duo Himbeere Auf Joghurt, 19
+	Duo Holunderbeere Auf Mandel, 23
+      Duo Vanille Auf Pistazie; 1.0, 25
+      Duo Vanille Auf Pistazie; 2.0, 187
+      Duo Vanille Auf Trüffelcrème, 42
+$Konditorei
+      	Mandel Torte, 174
+      	Nuss Torte, 175
+      	Schokoladen Torte, 173
+      Mousse à la Crème Caramel, 22
+      Mousse à l'Orange, 26
+      Mousse au Chocolat, 78
+      Mousse au Chocolat-Kirsche, 16
+      Mousse Chocolat Blanc; 1.0, 28
+      Mousse Chocolat Blanc; 2.0, 235
+*Luflée
+      Alpine Milk, 12
+      Noisette, 33
+      White, 14
+
+#Monoprix Gourmet
+	Pépites de Caramel, 220
+#Mövenpick of Switzerland
+      Caramel Brülé, 8
+      Chocolate Chips, 38
+      Maple Walnut, 24
+      
+#Nestlé Grand Chocolat
+	Amandes Nougatine Lait, 322
+	Caramel Pointe de Sel Lait; 1.0, 227
+	Caramel Pointe de Sel Lait; 2.0, 234
+	Fondant Caramel Pointe de Sel, 339
+	Fondant Ultime, 307
+      Lait Supérieur, 106
+      Noisettes Entières Lait, 326
+      Nougat Lait, 213
+      Pâte d'Amande Noir, 166
+*Gold
+      	Frutos Secos Enteros, 383
+
+#New Tree
+	Lait Amandes Grillées, 255
+	Lait Citron Vert  Muesli, 231
+#Novi Cioccolato
+	99% Cacao Nero, 169
+#Perugina l'Arte del Gusto
+	Bianco Vaniglia, 171
+	Latte con Mandorle, 182
+	Latte con Nocciole, 168
+	Latte Superiore, 211
+*Nero
+	Pistacchio, 349
+      Semi di Cacao, 186
+#Pingo Doce
+*Momentos Únicos
+	Chocolate de Leite com Amêndoas Intieras, 321
+	Chocolate de Leite com Avelãs Inteiras, 319
+#Poccur
+	Mapka 70%, 368
+#Raüsch Plantagen Schokolade
+	Amacado, 153
+	El Cuador, 157
+      Guácino, 132
+	Madanga, 81
+      Nouméa, 68
+      Puerto Cabello, 84
+      Tobago, 155
+#La Route des Alpes Original Chocolat Suisse
+*Surfin
+      Caramel, 83
+      Citron Vert, 14
+      Crème d'Amandes, 193
+      Lait, 197
+      Lavande, 214
+      Miel Amandes, 85
+      Pépites de Nougat, 243
+*
+	Blanc Ecorces d'Orange, 245
+      Noisettes Lait, 196
+#Sainsbury's (Taste the Difference)
+      Swiss Milk Chocolate, 392
+#Sarotti
+	Eddelbitterschokolade, 362
+	Vollmilchschokolade mit Salz & Karamell, 294	
+#Schoggi Mail
+	Genuine Swiss Made, 64
+#Schwermer Chocomio
+	Creme Brulée, 304
+	Moiusse au Chocolat, 279
+	Panna Cotta Erdbeere, 278
+#Spar Premium; Frey
+	Birne & Karamell, 52
+	Cranberry, 116
+	Crema Catalana, 274
+	Edelbitter Orange, 314
+	Haselnuss, 385
+	Heidelbeere, 71
+	Himbeer & Rosine, 400
+	Kokosnuss, 48
+	Mandel & Erdbeere, 398
+      Minze, 74
+      Nuss-Splitter, 312
+	Pekan & Karamell, 40
+	Pistazie, 323
+#Suchard
+*Finessa
+	Butter-Karamell, 376
+      Cocos, 285
+	Erdbeer, 63
+	Mandel Honig, 273
+	Minze, 399
+      Passionfrucht, 102
+*Sensations
+      Orange Noir, 92
+#Swiss Confisa
+	Blanc au Nougat, 276
+	Lait Extra, 268
+	Lait Noisettes, 275
+	Noir Orange, 309
+#Swiss Dream
+	3 Nuts, 343
+	Lemon - Orange, 342
+	Madagascar Vanilla, 346
+	Milk, 300
+      Nougalimar, 88
+#Tablette d'Or
+	Amandes entières, 381
+      Blanc Noisettes Entières, 55
+	Blanc Noix de Coco, 32
+	Crème Brûlée Lait, 335
+	Écorces d'Orange confites, 382
+*Esprit Noir
+      à la Menthe, 999
+      aux Écorces d'Orange, 266
+	Fourré Caramel Lait, 393
+	Lait Noisettes Entières, 144
+	Mousse Chocolat Noir, 384
+	Noix de Pécan caramélisées, 380
+	Praliné Lait, 236
+	Praliné Noir, 246
+	Truffe Fantaisie, 240
+#The First Chocolate
+	Blanc Noisettes Entières, 233
+	Lait Croustillant aux Corn Flakes, 218
+#Torras
+	Puro Almendras Enteras, 378
+#Valor Chocolates
+	Milk Chocolate Mousse With Hazelnut, 159
+
+#Villars
+      Blanc Noisettes, 87
+      Éclats de Noisettes, 9
+      Lait Amandes, 329
+      Lait Caramel, 108
+      Lait Noisettes; 1.0, 299
+      Lait Noisettes; 2.0, 330
+      Noir Amandes, 90
+#Vosges Haut Chocolat
+	Cherry Rooibos Bar, 348
+	Peanut Butter Bonbon (Organic), 377
+*Super Dark
+      Parmesan & Peppercorn, 347
+#Wagner
+	Apollon, 291
+	Earl Grey, 296
+	Fragaria, 282
+	Montélimar, 334
+	Sanddorn Orange, 336
+	Violeta, 289
